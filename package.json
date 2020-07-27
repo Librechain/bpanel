@@ -46,7 +46,7 @@
     "@bpanel/bpanel-ui": "0.0.19",
     "@bpanel/bpanel-utils": "0.1.9",
     "aphrodite": "1.2.5",
-    "autoprefixer": "9.4.5",
+    "autoprefixer": "9.8.4",
     "base64-inline-loader": "1.1.1",
     "bcash": "bcoin-org/bcash",
     "bcfg": "0.1.4",
