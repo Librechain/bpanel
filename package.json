@@ -71,7 +71,7 @@
     "cors": "2.8.4",
     "css-loader": "2.1.0",
     "effects-middleware": "1.0.1",
-    "express": "4.16.2",
+    "express": "4.21.1",
     "file-loader": "2.0.0",
     "font-awesome": "4.7.0",
     "hs-client": "~0.0.4",
